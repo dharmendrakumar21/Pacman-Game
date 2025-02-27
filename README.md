@@ -1,1 +1,3 @@
 Throughout the tutorial, you will learn how to create the game loop, create a jframe and jpanel, draw images on the jpanel, load the game map using a tilemap, add click handlers to make the pacman move, create a simple algorithm to move each ghost at random, detect collisions between the pacman and ghosts, have pacman eat the food pellets, add a running score, and reset the game when pacman collides with a ghost.
+![Screenshot 2025-02-26 194400](https://github.com/user-attachments/assets/ce3688c1-d9bc-4fcf-89f4-86699b8a4d4a)
+![Screenshot 2025-02-26 220610](https://github.com/user-attachments/assets/55f7526d-0236-43a7-818d-69b6bd20b91f)
